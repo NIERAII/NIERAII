@@ -1,4 +1,4 @@
-### Hi there 👋
+[![NIERAII's GitHub stats](https://github-readme-stats.vercel.app/api?username=NIERAII)](https://github.com/NIERAII/github-readme-stats)
 
 <!--
 **NIERAII/NIERAII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
