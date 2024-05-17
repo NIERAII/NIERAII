@@ -1,12 +1,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIERAII&theme=radical)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NIERAII&theme=radical)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NIERAII&theme=radical)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NIERAII&theme=radical)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NIERAII&theme=radical)
+<h1 align="center">Escapism <a target="_blank">Expert</a></h1>
+<h3 align="center">Not enough copium</h3>
 
 <!--
 **NIERAII/NIERAII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
