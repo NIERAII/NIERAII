@@ -1,4 +1,17 @@
-[![NIERAII's GitHub stats](https://github-readme-stats.vercel.app/api?username=NIERAII)](https://github.com/NIERAII/github-readme-stats)
+Карточка профиля: 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIERAII&theme=radical)
+
+Статистика языков в коммитах:
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NIERAII&theme=radical)
+
+Статистика языков в репозиториях:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NIERAII&theme=radical)
+
+Статистика профиля:
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NIERAII&theme=radical)
+
+Данные по коммитам за сутки:
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NIERAII&theme=radical)
 
 <!--
 **NIERAII/NIERAII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
