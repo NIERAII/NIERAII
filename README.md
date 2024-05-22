@@ -1,8 +1,8 @@
-<h1>Hiya, I'm NIRA, The Escapism Expert.</h1>
+<h1>NIRA, The Escapism Expert.</h1>
 
 You may also know me as Kana~~Dev~~ *(and probably a million other nicknames)*
 
-### I'm lacking hopium and wasting my time, please send help!
+### Huge hopium deplition detected, request for copium has been sent!
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIERAII&theme=radical)
 
@@ -15,6 +15,7 @@ You may also know me as Kana~~Dev~~ *(and probably a million other nicknames)*
 * Actual knowledge: ```0```
 * IQ: ```isNaN```
 * Wasted time percentage: ```87%```
+* Assigned number: ```39```
 <!--
 **NIERAII/NIERAII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
