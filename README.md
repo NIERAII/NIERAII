@@ -16,6 +16,7 @@ You may also know me as Kana~~Dev~~ *(and probably a million other nicknames)*
 * IQ: ```isNaN```
 * Wasted time percentage: ```87%```
 * Assigned number: ```39```
+* Dev alias: ```CELEXIA```
 <!--
 **NIERAII/NIERAII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
